@@ -1,0 +1,19 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianEs/react-redux.git"
+  },
+  "author": "sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianEs/react-redux/issues"
+  },
+  "homepage": "https://github.com/sebastianEs/react-redux#readme"
+}
